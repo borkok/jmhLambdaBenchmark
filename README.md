@@ -1,4 +1,4 @@
-##Results
+## Results
 
 | Benchmark                                        | Mode | Cnt | Score   | Error   | Units |
 |--------------------------------------------------|------|-----|---------|---------|-------|
@@ -19,7 +19,7 @@
 * Timeout: 10 min per iteration
 * Threads: 1 thread, will synchronize iterations
 
-######Disclaimer
+###### Disclaimer
 _REMEMBER: The numbers below are just data. To gain reusable insights, you need to follow up on why the numbers are the way they
 are. Use profilers (see -prof, -lprof), design factorial experiments, perform baseline and negative tests that provide
 experimental control, make sure the benchmarking environment is safe on JVM/OS/HW level, ask for reviews from the domain experts.
